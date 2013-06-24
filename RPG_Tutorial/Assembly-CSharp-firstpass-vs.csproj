@@ -52,6 +52,7 @@
      <Compile Include="Assets\Standard Assets\Scripts\Combat\PlayerAttack.cs" />
      <Compile Include="Assets\Standard Assets\Scripts\Combat\PlayerHealth.cs" />
      <Compile Include="Assets\Standard Assets\Scripts\Combat\Targetting.cs" />
+     <Compile Include="Assets\Standard Assets\Scripts\GUI\Gu.cs" />
      <Compile Include="Assets\Standard Assets\Scripts\General Scripts\ActivateTrigger.cs" />
      <Compile Include="Assets\Standard Assets\Scripts\Utility Scripts\CombineChildren.cs" />
      <Compile Include="Assets\Standard Assets\Scripts\Utility Scripts\MeshCombineUtility.cs" />
